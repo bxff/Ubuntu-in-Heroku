@@ -41,7 +41,7 @@ Your image has been successfully pushed. You can now release it with the 'contai
 5. Releaseing the Heroku App:
 ```bash
 $ heroku container:release worker -a safe-journey-10471
-Releasing images worker to biny... done
+Releasing images worker to safe-journey-10471... done
 ```
 6. Scaleing your app to work as a worker
 ```bash
