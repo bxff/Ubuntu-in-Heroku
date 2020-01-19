@@ -1,4 +1,3 @@
-#Grab the latest alpine image
 FROM heroku/heroku:18
 
 RUN \
